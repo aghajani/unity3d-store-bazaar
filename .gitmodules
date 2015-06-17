@@ -10,3 +10,9 @@
 [submodule "submodules/soomla-ios-core"]
 	path = submodules/soomla-ios-core
 	url = git@github.com:soomla/soomla-ios-core.git
+[submodule "submodules/wp-store"]
+	path = submodules/wp-store
+	url = https://github.com/soomla/wp-store
+[submodule "wp-store"]
+	path = wp-store
+	url = https://github.com/soomla/wp-store
